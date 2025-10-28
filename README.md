@@ -5,10 +5,7 @@
   <h3>💻 Web Developer | 📊 Data Analyst</h3>
 </div>
 
----
-
-### 🚀 About Me
-- 
+###  About Me
 - 🔭 Solid **Frontend Development** Experience (HTML, CSS; Javascript)
 - 🌱 Learning **Backend Development** (Node.js, Express, PostgreSQL)  
 - 📫 Reach me at **christianandremartinez@gmail.com**  

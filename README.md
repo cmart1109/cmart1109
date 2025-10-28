@@ -27,11 +27,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmart1109&theme=dark&show_icons=true&count_private=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmart1109&theme=dark&hide_border=false&langs_count=10" height="195" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=cmart1109&theme=dark&show_icons=true&count_private=true" height="165" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmart1109&theme=dark&hide_border=false&langs_count=10" height="165" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---

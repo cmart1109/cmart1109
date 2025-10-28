@@ -6,8 +6,6 @@
   </ul>
 </div>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on as a Data Analyst!
 - 🌱 I’m currently learning **Backend Development.**
 - 📫 Feel free to reach me out **christianandremartinez@gmail.com**

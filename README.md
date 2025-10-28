@@ -8,8 +8,8 @@
 ---
 
 ### 🚀 About Me
-
-- 🔭 Currently working as a **Data Analyst**  
+- 
+- 🔭 Solid **Frontend Development** Experience (HTML, CSS; Javascript)
 - 🌱 Learning **Backend Development** (Node.js, Express, PostgreSQL)  
 - 📫 Reach me at **christianandremartinez@gmail.com**  
 - 🏠 Say hi on **Discord** anytime — I’m always up for a good chat!  
@@ -22,7 +22,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cmart1109&theme=dark&show_icons=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmart1109&theme=dark&hide_border=false" height="165" />
 </p>
 
 <p align="center">

@@ -31,7 +31,10 @@
   - <a href="https://cmart1109.github.io/Groove/index.html">Groove Music</a>
   <p>A simple application to search for songs, preview them for 30 seconds, read their lyrics, and create a collection of favorites, using HTML, CSS, and JS technologies.</p>  
 </p>
-
+<p>
+  - <a href="https://github.com/cmart1109/Poker">Basic Poker Console Game</a>
+  <p>A simple console poker game using C#, in Spanish, in which I apply programming principles such as inheritance, encapsulation, and abstraction..</p>  
+</p>
 
 ### 📈 GitHub Stats
 

@@ -25,7 +25,7 @@
 ---
 
 
-### 🌐 Projects
+### 🛡️ Projects
 
 <p>
   - <a href="https://cmart1109.github.io/Groove/index.html">Groove Music</a>

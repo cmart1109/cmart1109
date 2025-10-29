@@ -28,7 +28,7 @@
 ### 🌐 Projects
 
 <p>
-  - <a href="https://cmart1109.github.io/Groove/index.html">***Groove Music***</a>
+  - <a href="https://cmart1109.github.io/Groove/index.html">Groove Music</a>
   <p>A simple application to search for songs, preview them for 30 seconds, read their lyrics, and create a collection of favorites, using HTML, CSS, and JS technologies.</p>  
 </p>
 

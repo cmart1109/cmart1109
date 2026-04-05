@@ -6,8 +6,8 @@
 </div>
 
 ###  About Me
-- 🔭 Solid **Frontend Development** Experience (HTML, CSS; Javascript)
-- 🌱 Learning **Backend Development** (Node.js, Express, PostgreSQL)  
+- 🔭 Solid **Frontend Development** Experience (HTML, CSS; Javascript, React, Nextjs and more)
+- 🌱 **Backend Development** Skills (Node.js, Express, PostgreSQL, Prisma, Firebase, OracleDB)  
 - 📫 Reach me at **christianandremartinez@gmail.com**  
 - 🏠 Say hi on **Discord** anytime — I’m always up for a good chat!
 

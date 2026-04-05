@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,express,figma,supabase,github,html,js,kotlin,androidstudio,cpp,md,mongodb,mysql,nextjs,cs,nodejs,postman,unity,py,react,codepen,godot,java,npm,vite,wordpress,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,express,figma,supabase,github,html,js,cpp,md,mongodb,mysql,nextjs,cs,nodejs,postman,unity,py,react,codepen,godot,java,npm,vite,wordpress,ts,vscode&perline=14" />
   </a>
 </p>
 

@@ -1,3 +1,33 @@
+![Header](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<div align="center">
+  <h1>Hi there 👋, I'm Chris</h1>
+  <h3>💻 Full-Stack Developer | 📊 Data Analyst</h3>
+  <p>Building web applications and data-driven solutions.</p>
+</div>
+
+### 👨🏻‍💻 About Me
+
+- 💻 Full-Stack Developer experienced in building modern web applications.
+- 🌱 Working with **React, Next.js, TypeScript, Node.js, C#, .NET and SQL**.
+- 🗄️ Interested in database development, data analysis, and software architecture.
+- 🚀 Passionate about learning new technologies and building practical solutions.
+- 📫 Reach me at **christianandremartinez@gmail.com**
+
+> Passionate about technology, data, and building creative digital projects that combine logic, functionality, and design.
+
+---
+
+### 🧠 Technologies & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,react,nextjs,nodejs,express,cs,dotnet,postgres,oracle,mongodb,mysql,prisma,python,figma,supabase,vscode,postman&perline=11" />
+  </a>
+</p>
+
+---
+
 ### 🚀 Featured Projects
 
 <table>
@@ -60,3 +90,29 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://discord.gg/ABGDcUf3" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ch-martinez2002/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_chris.mart/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="40" width="40" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <i>Thanks for visiting my profile! 👨🏻‍💻</i>
+</div>
+
+![Footer](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)

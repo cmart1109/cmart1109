@@ -1,78 +1,62 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### 🚀 Featured Projects
 
-<div align="center">
-  <h1>Hi there 👋, I'm Chris </h1>
-  <h3>💻 Web Developer | 📊 Data Analyst</h3>
-</div>
-
-###  About Me
-- 🔭 Solid **Frontend Development** Experience (HTML, CSS; Javascript, React, Nextjs and more)
-- 🌱 **Backend Development** Skills (Node.js, Express, PostgreSQL, Prisma, Firebase, OracleDB)  
-- 📫 Reach me at **christianandremartinez@gmail.com**  
-- 🏠 Say hi on **Discord** anytime — I’m always up for a good chat!
-
-> Passionate about technology, data, and building creative digital projects that combine logic and design.
-
-### 🧠 I have experience with these technologies 👨🏻‍💻
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,express,figma,supabase,github,html,js,cpp,md,mongodb,mysql,nextjs,cs,nodejs,postman,unity,py,react,codepen,godot,java,npm,vite,wordpress,ts,vscode&perline=14" />
-  </a>
-</p>
-
-
----
-
-
-### 🛡️ Projects
-
-<p>
-  - <a href="https://cmart1109.github.io/Groove/index.html">Groove Music</a>
-  <p>A simple application to search for songs, preview them for 30 seconds, read their lyrics, and create a collection of favorites, using HTML, CSS, and JS technologies.</p>  
-</p>
-<p>
-  - <a href="https://github.com/cmart1109/Poker">Basic Poker Console Game</a>
-  <p>A simple console poker game using C#, in Spanish, in which I apply programming principles such as inheritance, encapsulation, and abstraction..</p>  
-</p>
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=cmart1109&theme=dark&show_icons=true&count_private=true" height="165" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmart1109&theme=dark&hide_border=false&langs_count=10" height="165" />
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-
-
-### 🌐 Connect With Me 🤝
-
-<p align="center">
-  <a href="https://discord.gg/ABGDcUf3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="discord" height="50" width="50" />
-  </a>
-  <a href="https://www.linkedin.com/in/ch-martinez2002/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a>
-  <a href="https://www.instagram.com/_chris.mart/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
-  </a>
-</p>
-
----
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cmart1109&label=Profile%20views&color=0e75b6&style=flat" alt="cmart1109" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/cmart1109/Markpad">MarkPad</a></h3>
+      <p><strong>University Project</strong></p>
+      <p>
+        A browser-based Markdown editor featuring real-time rendered previews.
+        Includes user authentication, project-organized document management,
+        autosaving, and public read-only document links.
+      </p>
+      <ul>
+        <li>Monaco Editor integration with syntax highlighting and live preview.</li>
+        <li>Document CRUD operations organized by project.</li>
+        <li>ASP.NET Core Identity authentication and Entity Framework Core.</li>
+        <li>JavaScript interoperability between Monaco Editor and Blazor.</li>
+        <li>Autosaving, public read-only links, and sanitized HTML rendering.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat" />
+        <img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+      </p>
+      <p>
+        🌐 <a href="https://markpad-cmartinez.azurewebsites.net/">Live Demo</a>
+        &nbsp;|&nbsp;
+        💻 <a href="https://github.com/cmart1109/Markpad">Source Code</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/cmart1109/whisp">Whisp</a></h3>
+      <p><strong>Personal Project</strong></p>
+      <p>
+        A social networking platform inspired by X (formerly Twitter),
+        where users can publish posts, comment, and like other users' content.
+        Built with a modern full-stack architecture.
+      </p>
+      <ul>
+        <li>User authentication and social interactions.</li>
+        <li>Publishing, commenting, and liking functionality.</li>
+        <li>Prisma ORM for database management.</li>
+        <li>Responsive user interface built with Chakra UI.</li>
+        <li>Deployed on Vercel using Next.js and TypeScript.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white" />
+      </p>
+      <p>
+        🌐 <a href="https://whisp-2xb7hfv3n-cmart1109s-projects.vercel.app/">Live Demo</a>
+        &nbsp;|&nbsp;
+        💻 <a href="https://github.com/cmart1109/whisp">Source Code</a>
+      </p>
+    </td>
+  </tr>
+</table>
